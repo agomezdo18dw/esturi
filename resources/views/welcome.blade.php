@@ -9,7 +9,7 @@
 <body class="w-100">
 	@include('includes.navs.navLanding')
 
-	<article class="text-center d-flex justify-content-center align-items-center mt-5" id="cajaSlogan">
+	<article class="text-center d-flex justify-content-center align-items-center" id="cajaSlogan">
 		<div>
 			<div>
 				<h4 id="slogan">@lang('Encuentra lugares interesantes cerca de ti').</h4>

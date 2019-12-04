@@ -1,5 +1,5 @@
 <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-		<a class="navbar-brand" href="{{ route('welcome') }}">
+		<a class="navbar-brand" href="#cajaSlogan">
 			<img src="{{ URL::asset('images/logosmall.png') }}" width="60" height="60" class="d-inline-block align-center" alt="">
 			Esturi
 		</a>
