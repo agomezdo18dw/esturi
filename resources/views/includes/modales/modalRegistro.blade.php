@@ -94,7 +94,7 @@
                     <div class="modal-footer">
                         <div class="form-group row mb-0">
                             <div class="input-group col">
-                                <button type="submit" class="btn btn-outline-success">
+                                <button type="submit" class="btn btn-outline-success" id="Registrarse" disabled>
                                     @lang('Registrarse')
                                 </button>
                             </div>
